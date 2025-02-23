@@ -1,0 +1,11 @@
+{
+  "name": "react-app-without-framework",
+  "version": "1.0.0",
+  "description": "Step by step instructions on how to setup a React App from scratch without a framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
